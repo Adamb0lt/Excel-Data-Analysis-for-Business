@@ -1,4 +1,4 @@
-# Excel Projects README
+# Excel Data Analysis Projects README
 
 ## Overview
 
